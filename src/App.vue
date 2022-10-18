@@ -5,6 +5,8 @@
 </template>
 
 <script>
+// import { log } from 'console';
+
 export default {
   name: 'App'
 }
